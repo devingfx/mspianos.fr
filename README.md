@@ -1,2 +1,2 @@
 # website
-mspinaos.fr
+https://mspianos.fr
